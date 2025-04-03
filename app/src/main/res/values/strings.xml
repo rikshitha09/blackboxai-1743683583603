@@ -1,0 +1,31 @@
+<resources>
+    <!-- App Name and Basic Strings -->
+    <string name="app_name">Health Manager</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="welcome_message">Welcome to Health Manager</string>
+    
+    <!-- Notification Strings -->
+    <string name="default_notification_channel_id">health_reminders</string>
+    <string name="notification_channel_name">Health Reminders</string>
+    <string name="notification_channel_description">Notifications for medication and appointments</string>
+    
+    <!-- Health Metrics -->
+    <string name="blood_pressure">Blood Pressure</string>
+    <string name="blood_sugar">Blood Sugar</string>
+    <string name="weight">Weight</string>
+    
+    <!-- Reminder Strings -->
+    <string name="medication_reminder">Medication Reminder</string>
+    <string name="appointment_reminder">Appointment Reminder</string>
+    
+    <!-- Video Consultation -->
+    <string name="video_consultation">Video Consultation</string>
+    <string name="join_call">Join Call</string>
+    
+    <!-- Support Group -->
+    <string name="support_group">Support Group</string>
+    <string name="post_message">Post Message</string>
+</resources>
