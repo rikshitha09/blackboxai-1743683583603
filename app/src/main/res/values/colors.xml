@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#4CAF50</color>  <!-- Green -->
+    <color name="colorPrimaryDark">#388E3C</color>  <!-- Dark Green -->
+    <color name="colorAccent">#2196F3</color>  <!-- Blue -->
+    
+    <!-- Text Colors -->
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    
+    <!-- Background Colors -->
+    <color name="background">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="error">#F44336</color>
+    
+    <!-- Health Metric Colors -->
+    <color name="blood_pressure">#E53935</color>
+    <color name="blood_sugar">#7B1FA2</color>
+    <color name="weight">#FF9800</color>
+    
+    <!-- Status Colors -->
+    <color name="status_normal">#4CAF50</color>
+    <color name="status_warning">#FFC107</color>
+    <color name="status_danger">#F44336</color>
+</resources>
