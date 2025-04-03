@@ -64,6 +64,7 @@ public class MainActivity extends AppCompatActivity
         adapter.addFragment(new HomeFragment(), "Home");
         adapter.addFragment(new HealthLogsFragment(), "Logs");
         adapter.addFragment(new RemindersFragment(), "Reminders");
+        adapter.addFragment(new VideoConsultationFragment(), "Consultations");
         viewPager.setAdapter(adapter);
 
         // Connect TabLayout with ViewPager
